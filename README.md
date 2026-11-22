@@ -1,2 +1,8 @@
-# repomind-scratch-test
-Temporary repository for testing RepoMind AI pull requests
+
+# RepoMind Scratch Test
+
+This repository is used to test RepoMind's AI-powered GitHub workflow.
+
+RepoMind helps developrs review code and propose improvements.
+
+This is a temporary test repository.
